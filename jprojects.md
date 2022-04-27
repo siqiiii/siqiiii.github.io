@@ -8,15 +8,7 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Summary</h2>
-		</header>
-		<p>There are three main projects I did in previous year</p>
-	</div>
-</section>
+
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -29,9 +21,10 @@ nav-menu: true
 				<header class="major">
 					<h3>Wine Quality Prediction</h3>
 				</header>
-				<p>utalized random forest ...</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+				<ul>
+					<li>Performed exploratory analysis for Kaggle dataset and identified correlated features and factors that affect the wine quality</li>
+					<li>Applied different data sampling techniques such as SMOTE to solve data imbalance problems</li>
+					<li>Predicted wine quality with 91% accuracy by applying support vector machines and random forest model</li>
 				</ul>
 			</div>
 		</div>
@@ -43,12 +36,14 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Face Mask Detection</h3>
+					<h3>Face Mask Detection (Ongoing)</h3>
 				</header>
-				<p>Identiy if people wear the mask appropriately </p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+				<ul>
+					<li>Mine image data from YouTube videos using Python</li>
+					<li>Develop a method for training an image classifier capable of identifying whether an image contains a person wearing a mask properly, a person wearing a mask improperly, a person not wearing a mask, or no people at all.</li>
+					<li>Detect face mask with 91% accuracy by applying machine learning and deep learning models including Support Vector Machines, Random Forest, XGBoosting and Convolutional Neural Network</li>
 				</ul>
+				<p></p>
 			</div>
 		</div>
 	</section>
@@ -61,9 +56,12 @@ nav-menu: true
 				<header class="major">
 					<h3>Utilization Management</h3>
 				</header>
-				<p>Work with Cayuga Health to find potential opportunity to read surgery cost while maintain the same service lvevl.</p>
-				
-				
+				<ul>
+					<li>Collaborates with hospital operation teams and providers to identify potential opportunities to reduce healthcare costs while maintaining the quality of care </li>
+					<li>Performed cost and frequency analysis to identify the most impactful low-risk surgeries</li>
+					<li>Analyzes utilization rate of preoperative baseline laboratory studies prior to low-risk surgery using CHP SQL database</li>
+					
+				</ul>				
 			</div>
 		</div>
 	</section>
