@@ -13,7 +13,9 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>About Me</h1>
+			<p>My name is Siqi Xie, I am an Master of Engineering student at Cornell University major in Operations Research and Information Engineering, concentrated in Data Analytics. Before I went back school, I worked as a data/product analyst in both healthcare and financial industries for around three years. I accumulated a lot of hands-on experience about data munging, data visualization and data modeling. </p>
 		</header>
+
 
 <!-- Content -->
 <h2 id="content"> Education </h2>

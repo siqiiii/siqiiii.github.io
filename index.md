@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Feel free to connect with me through LinkedIn, I am happy to meet with new friends!
+Feel free to connect with me through any social media method listed at bottom of this page, I am happy to meet with new friends!

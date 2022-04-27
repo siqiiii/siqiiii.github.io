@@ -41,7 +41,7 @@ nav-menu: true
 				<ul>
 					<li>Mine image data from YouTube videos using Python</li>
 					<li>Develop a method for training an image classifier capable of identifying whether an image contains a person wearing a mask properly, a person wearing a mask improperly, a person not wearing a mask, or no people at all.</li>
-					<li>Detect face mask with 91% accuracy by applying machine learning and deep learning models including Support Vector Machines, Random Forest, XGBoosting and Convolutional Neural Network</li>
+					<li>Detect face mask with 95% accuracy by applying machine learning and deep learning models including Support Vector Machines, Random Forest, XGBoosting and Convolutional Neural Network</li>
 				</ul>
 				<p></p>
 			</div>
@@ -54,13 +54,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Utilization Management</h3>
+					<h3>Utilization Management (Ongoing)</h3>
 				</header>
 				<ul>
 					<li>Collaborates with hospital operation teams and providers to identify potential opportunities to reduce healthcare costs while maintaining the quality of care </li>
 					<li>Performed cost and frequency analysis to identify the most impactful low-risk surgeries</li>
-					<li>Analyzes utilization rate of preoperative baseline laboratory studies prior to low-risk surgery using CHP SQL database</li>
-					
+					<li>Analyzes utilization rate of preoperative baseline laboratory studies prior to low-risk surgery using CHP SQL database</li>	
 				</ul>				
 			</div>
 		</div>
